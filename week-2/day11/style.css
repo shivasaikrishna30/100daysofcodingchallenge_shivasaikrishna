@@ -1,0 +1,23 @@
+.background{
+    background-color: #ffebcd;
+    padding: 20px;
+    margin: 0px;
+    font-family: 'arial',sans-serif;
+    text-align: center;
+
+}
+.cake{
+    color: red;
+}
+.cooky{
+    color: green;
+}
+.candy{
+    color: blue;
+}
+.color{
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
